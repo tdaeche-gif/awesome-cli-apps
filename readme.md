@@ -886,3 +886,4 @@ Inclusion criteria are less strict for this fast-moving field.
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agarrharr) has waived all copyright and related or neighboring rights to this work.
+- [SubDomainWatch](https://github.com/SubdomainWatch/takeover-guard) - Continuous subdomain discovery, SSL expiration tracking, and DNS takeover prevention for teams (CLI. ([Website](https://subdomainwatch.com))
